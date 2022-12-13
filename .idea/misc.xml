@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/B.Sc (Hons) Information Technology (SLIIT)/2nd year/2nd semester/Mobile Application Development - IT2010 2022JUL/MAD project/app/src/main/res/drawable/ic_baseline_done_24.xml" value="0.1165" />
+        <entry key="..\:/B.Sc (Hons) Information Technology (SLIIT)/2nd year/2nd semester/Mobile Application Development - IT2010 2022JUL/MAD project/app/src/main/res/drawable/rounded_corner.xml" value="0.1905" />
+        <entry key="..\:/B.Sc (Hons) Information Technology (SLIIT)/2nd year/2nd semester/Mobile Application Development - IT2010 2022JUL/MAD project/app/src/main/res/drawable/rounded_corner_btn_cancel.xml" value="0.1" />
+        <entry key="..\:/B.Sc (Hons) Information Technology (SLIIT)/2nd year/2nd semester/Mobile Application Development - IT2010 2022JUL/MAD project/app/src/main/res/drawable/rounded_corner_btn_cancel_large.xml" value="0.1" />
+        <entry key="..\:/B.Sc (Hons) Information Technology (SLIIT)/2nd year/2nd semester/Mobile Application Development - IT2010 2022JUL/MAD project/app/src/main/res/layout/activity_add_quiz.xml" value="0.1" />
+        <entry key="..\:/B.Sc (Hons) Information Technology (SLIIT)/2nd year/2nd semester/Mobile Application Development - IT2010 2022JUL/MAD project/app/src/main/res/layout/activity_create_account.xml" value="0.1" />
+        <entry key="..\:/B.Sc (Hons) Information Technology (SLIIT)/2nd year/2nd semester/Mobile Application Development - IT2010 2022JUL/MAD project/app/src/main/res/layout/activity_login.xml" value="0.1" />
+        <entry key="..\:/B.Sc (Hons) Information Technology (SLIIT)/2nd year/2nd semester/Mobile Application Development - IT2010 2022JUL/MAD project/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/B.Sc (Hons) Information Technology (SLIIT)/2nd year/2nd semester/Mobile Application Development - IT2010 2022JUL/MAD project/app/src/main/res/layout/activity_note_details.xml" value="0.25" />
+        <entry key="..\:/B.Sc (Hons) Information Technology (SLIIT)/2nd year/2nd semester/Mobile Application Development - IT2010 2022JUL/MAD project/app/src/main/res/layout/activity_note_edit.xml" value="0.209375" />
+        <entry key="..\:/B.Sc (Hons) Information Technology (SLIIT)/2nd year/2nd semester/Mobile Application Development - IT2010 2022JUL/MAD project/app/src/main/res/layout/activity_note_list.xml" value="0.1" />
+        <entry key="..\:/B.Sc (Hons) Information Technology (SLIIT)/2nd year/2nd semester/Mobile Application Development - IT2010 2022JUL/MAD project/app/src/main/res/layout/activity_quiz_runtime.xml" value="0.1" />
+        <entry key="..\:/B.Sc (Hons) Information Technology (SLIIT)/2nd year/2nd semester/Mobile Application Development - IT2010 2022JUL/MAD project/app/src/main/res/layout/activity_splash.xml" value="0.17724867724867724" />
+        <entry key="..\:/B.Sc (Hons) Information Technology (SLIIT)/2nd year/2nd semester/Mobile Application Development - IT2010 2022JUL/MAD project/app/src/main/res/layout/content_quiz_runtime.xml" value="0.1" />
+        <entry key="..\:/B.Sc (Hons) Information Technology (SLIIT)/2nd year/2nd semester/Mobile Application Development - IT2010 2022JUL/MAD project/app/src/main/res/layout/recycler_note_item.xml" value="0.20833333333333334" />
+        <entry key="..\:/SLIIT/Year 2 Semester 2/MAD/mad final/MAD project/app/src/main/res/layout/activity_add_answer.xml" value="0.264" />
+        <entry key="..\:/SLIIT/Year 2 Semester 2/MAD/mad final/MAD project/app/src/main/res/layout/activity_add_quiz.xml" value="0.22644927536231885" />
+        <entry key="..\:/SLIIT/Year 2 Semester 2/MAD/mad final/MAD project/app/src/main/res/layout/activity_add_resource.xml" value="0.22644927536231885" />
+        <entry key="..\:/SLIIT/Year 2 Semester 2/MAD/mad final/MAD project/app/src/main/res/layout/activity_all_quiz.xml" value="0.22644927536231885" />
+        <entry key="..\:/SLIIT/Year 2 Semester 2/MAD/mad final/MAD project/app/src/main/res/layout/activity_all_resources.xml" value="0.25416666666666665" />
+        <entry key="..\:/SLIIT/Year 2 Semester 2/MAD/mad final/MAD project/app/src/main/res/layout/activity_create_account.xml" value="0.22644927536231885" />
+        <entry key="..\:/SLIIT/Year 2 Semester 2/MAD/mad final/MAD project/app/src/main/res/layout/activity_edit_answer.xml" value="0.22644927536231885" />
+        <entry key="..\:/SLIIT/Year 2 Semester 2/MAD/mad final/MAD project/app/src/main/res/layout/activity_login.xml" value="0.22644927536231885" />
+        <entry key="..\:/SLIIT/Year 2 Semester 2/MAD/mad final/MAD project/app/src/main/res/layout/activity_main.xml" value="0.22644927536231885" />
+        <entry key="..\:/SLIIT/Year 2 Semester 2/MAD/mad final/MAD project/app/src/main/res/layout/activity_modify_quiz.xml" value="0.22644927536231885" />
+        <entry key="..\:/SLIIT/Year 2 Semester 2/MAD/mad final/MAD project/app/src/main/res/layout/activity_user_profile.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Udesh/Desktop/MAD project/app/src/main/res/layout/activity_add_resource.xml" value="0.1953125" />
+        <entry key="..\:/Users/Udesh/Desktop/MAD project/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/Udesh/Desktop/MAD project/app/src/main/res/layout/activity_user_profile.xml" value="0.16806722689075632" />
+        <entry key="..\:/Users/kisus/OneDrive/Desktop/MAD project/app/src/main/res/layout/activity_add_answer.xml" value="0.259375" />
+        <entry key="..\:/Users/kisus/OneDrive/Desktop/MAD project/app/src/main/res/layout/activity_all_quiz.xml" value="0.259375" />
+        <entry key="..\:/Users/kisus/OneDrive/Desktop/MAD project/app/src/main/res/layout/activity_all_resources.xml" value="0.259375" />
+        <entry key="..\:/Users/kisus/OneDrive/Desktop/MAD project/app/src/main/res/layout/activity_main.xml" value="0.259375" />
+        <entry key="..\:/Users/kisus/OneDrive/Desktop/MAD project/app/src/main/res/layout/activity_quiz_list.xml" value="0.259375" />
+        <entry key="..\:/Users/kisus/OneDrive/Desktop/MAD project/app/src/main/res/layout/activity_quiz_runtime.xml" value="0.259375" />
+        <entry key="..\:/Users/kisus/OneDrive/Desktop/MAD project/app/src/main/res/layout/activity_quizes.xml" value="0.259375" />
+        <entry key="..\:/Users/kisus/OneDrive/Desktop/MAD project/app/src/main/res/layout/activity_resource_list.xml" value="0.259375" />
+        <entry key="..\:/Users/kisus/OneDrive/Desktop/MAD project/app/src/main/res/layout/activity_runtime.xml" value="0.259375" />
+        <entry key="..\:/Users/kisus/OneDrive/Desktop/MAD project/app/src/main/res/layout/activity_user_profile.xml" value="0.259375" />
+        <entry key="..\:/Users/kisus/OneDrive/Desktop/MAD project/app/src/main/res/layout/activity_view_quiz.xml" value="0.259375" />
+        <entry key="..\:/Users/kisus/OneDrive/Desktop/MAD project/app/src/main/res/layout/quiz.xml" value="0.259375" />
+        <entry key="..\:/Users/sheha/OneDrive/Desktop/Final/MAD project/app/src/main/res/layout/activity_add_answer.xml" value="0.3625" />
+        <entry key="..\:/Users/sheha/OneDrive/Desktop/Final/MAD project/app/src/main/res/layout/activity_add_quiz.xml" value="0.31145833333333334" />
+        <entry key="..\:/Users/sheha/OneDrive/Desktop/Final/MAD project/app/src/main/res/layout/activity_add_resource.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/sheha/OneDrive/Desktop/Final/MAD project/app/src/main/res/layout/activity_all_quiz.xml" value="0.31145833333333334" />
+        <entry key="..\:/Users/sheha/OneDrive/Desktop/Final/MAD project/app/src/main/res/layout/activity_all_resources.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/sheha/OneDrive/Desktop/Final/MAD project/app/src/main/res/layout/activity_create_account.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/sheha/OneDrive/Desktop/Final/MAD project/app/src/main/res/layout/activity_edit_answer.xml" value="0.31145833333333334" />
+        <entry key="..\:/Users/sheha/OneDrive/Desktop/Final/MAD project/app/src/main/res/layout/activity_main.xml" value="0.31145833333333334" />
+        <entry key="..\:/Users/sheha/OneDrive/Desktop/Final/MAD project/app/src/main/res/layout/activity_modify_quiz.xml" value="0.31145833333333334" />
+        <entry key="..\:/Users/sheha/OneDrive/Desktop/Final/MAD project/app/src/main/res/layout/activity_my_answers.xml" value="0.3625" />
+        <entry key="..\:/Users/sheha/OneDrive/Desktop/Final/MAD project/app/src/main/res/layout/activity_note_edit.xml" value="0.3625" />
+        <entry key="..\:/Users/sheha/OneDrive/Desktop/Final/MAD project/app/src/main/res/layout/activity_quizes.xml" value="0.3625" />
+        <entry key="..\:/Users/sheha/OneDrive/Desktop/Final/MAD project/app/src/main/res/layout/activity_splash.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/sheha/OneDrive/Desktop/Final/MAD project/app/src/main/res/layout/activity_user_profile.xml" value="0.31145833333333334" />
+        <entry key="..\:/Users/sheha/OneDrive/Desktop/Final/MAD project/app/src/main/res/layout/activity_view_answer.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/sheha/OneDrive/Desktop/Final/MAD project/app/src/main/res/layout/answer.xml" value="0.3625" />
+        <entry key="..\:/Users/sheha/OneDrive/Desktop/Final/MAD project/app/src/main/res/layout/quiz.xml" value="0.3625" />
+        <entry key="..\:/Users/sheha/OneDrive/Desktop/Final/MAD project/app/src/main/res/layout/row_add_ticker.xml" value="0.23645833333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

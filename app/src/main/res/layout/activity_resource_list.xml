@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/hcol"
+
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:id="@+id/linearLayout"
+        android:layout_width="356dp"
+
+        android:layout_height="254dp"
+        android:backgroundTint="#3E3B3B"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.49"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.4">
+
+
+        <EditText
+            android:id="@+id/addNewResourceTxt"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginVertical="8dp"
+            android:hint="Resource details"
+            android:padding="12dp"
+
+            android:textColor="@color/white"
+            android:textColorHint="@color/white"
+            android:textSize="20sp"
+            android:textStyle="bold"></EditText>
+
+
+        <EditText
+            android:id="@+id/selectFile"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginVertical="8dp"
+            android:hint="Select File from Storage"
+
+            android:padding="12dp"
+
+            android:textColor="#FFFFFF"
+            android:textColorHint="@color/white"
+            android:textSize="20sp">
+
+        </EditText>
+
+        <Button
+            android:id="@+id/btnUploadFile"
+            android:layout_width="270dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/selectFile"
+            android:layout_centerHorizontal="true"
+            android:layout_gravity="center"
+            android:text="Upload file" />
+
+
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/btnViewFiles"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+
+        android:text="View PDF"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/linearLayout"
+        app:layout_constraintVertical_bias="0.553" />
+
+    <TextView
+        android:id="@+id/addResourcesTxt"
+        android:layout_width="412dp"
+        android:layout_height="80dp"
+        android:background="@color/gray"
+        android:gravity="center"
+        android:text="Add Resources"
+        android:textSize="38sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toTopOf="@+id/linearLayout"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.0" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

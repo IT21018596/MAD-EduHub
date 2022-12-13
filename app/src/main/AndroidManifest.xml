@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.eduhub">
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Eduhub"
+        tools:targetApi="31">
+        <activity
+            android:name=".NoteListActivity"
+            android:exported="false" />
+        <activity
+            android:name=".NoteDetailsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".LoginActivity"
+            android:exported="false" />
+        <activity
+            android:name=".CreateAccountActivity"
+            android:exported="false" />
+
+        <activity
+            android:name=".SummaryActivity"
+            android:exported="false" />
+        <activity
+            android:name=".AllQuizActivity"
+            android:exported="true" />
+        <activity
+            android:name=".QuizList"
+            android:exported="true" />
+        <activity
+            android:name=".RuntimeActivity"
+            android:exported="true" />
+        <activity
+            android:name=".ViewQuiz"
+            android:exported="false" />
+        <activity
+            android:name=".AddQuiz"
+            android:exported="true" />
+        <activity
+            android:name=".Quizes"
+            android:exported="false" />
+        <activity
+            android:name=".ModifyQuiz"
+            android:exported="true" />
+
+        <activity
+            android:name=".allResources"
+            android:exported="true" />
+        <activity
+            android:name=".AddResource"
+            android:exported="true" />
+
+
+
+        <activity
+            android:name=".My_Answers"
+            android:exported="false" />
+
+
+
+
+        <activity
+            android:name=".user_profile"
+            android:exported="false"/>
+
+
+        <activity
+            android:name=".edit_answer"
+            android:exported="false"/>
+
+
+        <activity
+            android:name=".add_answer"
+            android:exported="false"/>
+
+
+
+
+        <activity
+            android:name=".view_answer"
+            android:exported="true" />
+
+
+        <activity
+            android:name=".SplashActivity"
+            android:exported="true">
+
+
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".MainActivity"
+            android:exported="true" />
+    </application>
+
+</manifest>

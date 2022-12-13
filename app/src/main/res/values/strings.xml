@@ -1,0 +1,106 @@
+<resources>
+    //shehan
+    <string name="Question_Number">Qusetion 1</string>
+    <string name="View_Answers">Answers</string>
+    <string name="Number_Of_Answers">Number Of Answrs : 4</string>
+    <string name="User_email">User\'s email address</string>
+    <string name="Add_Answer">Add Answer</string>
+    <string name="Answer_Des">Answer Description</string>
+    <string name="Hint_Answer">What\'s on your mind...</string>
+    <string name="Text_Upload_Image">Upload Images</string>
+    <string name="Save_Button">Save</string>
+    <string name="Cancel_Button">Discard</string>
+    <string name="Edit_answer">Edit Answer</string>
+    <string name="Add_Images">Add Images</string>
+    <string name="Remove_Img">Remove Images</string>
+    <string name="Save_Changes">Save changes</string>
+    <string name="Delete_Answer">Delete Answers</string>
+    <string name="User_profile">Profile</string>
+    <string name="since">Member since 2020</string>
+    <string name="Total_Point">Total Point : XX</string>
+    <string name="view_notes">"View my notes "</string>
+    <string name="View_My_Notes">View my notes</string>
+    <string name="View_My_Answer">View Submited answers</string>
+    <string name="View_my_quizzes">View uploaded quizzes</string>
+    <string name="No_Notes">Number Of Notes : xx</string>
+    <string name="No_My_Answer">Number Of Submited Answers : xx</string>
+    <string name="No_Of_Quizzes">Number Of Uploaded Quizzes : XX</string>
+    <string name="View_Quize">View quize</string>
+    <string name="search_hint">Enter the question</string>
+    <string name="Question">this is questiion this is questiion this is questiion this is questiion</string>
+    <string name="search_bar_hint">Search the quize....</string>
+    <string name="Answers_for_quizes">" Submited Answer Will be display here"</string>
+    <string name="ex_answer">Exsisitng Answer</string>
+    <string name="View_My_Answers">My Answers</string>
+    <string name="Editable">Tap to edit</string>
+    <string name="edit">Tap to edit</string>
+
+
+    <string name="app_name">Eduhub</string>
+    <string name="hello_text">Hello</string>
+    <string name="registration_welcome_text">Welcome to Eduhub</string>
+    <string name="email_hint_text">Email</string>
+    <string name="password_hint_text">Password</string>
+    <string name="confirm_password_hint_text">Confirm Password</string>
+    <string name="create_account_btn_text">Create Account</string>
+    <string name="already_have_an_account_txt">Already have an account?</string>
+    <string name="login_link_text">Login</string>
+    <string name="login_welcome_back_text">Welcome Back</string>
+    <string name="login_btn_txt">Login</string>
+    <string name="don_t_have_an_account_text">Don\'t have an account?</string>
+    <string name="sign_up_link__text">Sign up</string>
+    <string name="add_new_note_appbar_text">Add New Note</string>
+    <string name="notes_appbar_text">Notes</string>
+    <string name="add_image_btn_text">Add Image</string>
+    <string name="module_hint_txt">Module</string>
+    <string name="edit_note_appbar_text">Edit Note</string>
+
+    <string name="btnQuiz">Quiz</string>
+    <string name="btnResources">Resources</string>
+    <string name="btnNotes">Notes</string>
+    <string name="topicApp">EduHub</string>
+    <string name="topicQuizList">Quiz List</string>
+    <string name="topicQuizes">Quizes</string>
+    <string name="btnAns">Answers</string>
+    <string name="btnRes">Resources</string>
+    <string name="btnPrev">Previous</string>
+    <string name="btnNext">Next</string>
+    <string name="chkBoxAns1">%s</string>
+    <string name="chkBoxAns2">%s</string>
+    <string name="chkBoxAns3">%s</string>
+    <string name="chkBoxAns4">%s</string>
+    <string name="topicAddQuiz">Add Quiz</string>
+    <string name="btnAdd">Add</string>
+    <string name="btnCancel">Cancel</string>
+    <string name="txtUserId">User ID:</string>
+    <string name="txtQuesID">Question ID:</string>
+    <string name="txtLevel">Level:</string>
+    <string name="txtQues">Question:</string>
+    <string name="txtAns">Answers:</string>
+    <string name="txtAnsHint">Enter an Answer</string>
+    <string name="txtHintQues">Enter a question</string>
+    <string name="txtHintQuesId">Enter a question ID</string>
+    <string name="txtTopicModifyQuiz">Modify Quiz</string>
+    <string name="txtTopicViewQuiz">View Quiz</string>
+    <string name="btnModify">Modify</string>
+    <string name="btnDelete">Delete</string>
+    <string name="levelBeginner">Beginner</string>
+    <string name="levelIntermediate">Intermediate</string>
+    <string name="levelAdvanced">Advanced</string>
+    <string name="myNotes">My Notes</string>
+    <string name="cancel">Cancel</string>
+    <string name="quiz_title">Quiz Title</string>
+    <string name="description">Description</string>
+    <string name="title_activity_quiz_runtime">QuizRuntime</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="modify_quiz">Modify Quiz</string>
+
+    <string name="logoutBtnText">Logout</string>
+</resources>
